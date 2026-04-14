@@ -124,6 +124,7 @@
     <main class="main-content">
         <div class="hero">
             <h1>Animation Lab — Three.js</h1>
+            <p>Bienvenue dans le laboratoire d’animation de Three.js : une collection d’expériences visuelles, de loaders, de démos temps-réel, de transitions et d’identités de marque en particules. Choisis un thème pour parcourir une page dédiée, plus légère et rapide.</p>
             <p>Collection d’expériences visuelles : loaders, démos temps-réel, transitions, et identités de marque en particules. Choisis un thème pour parcourir une page dédiée, plus légère et rapide.</p>
         </div>
 
