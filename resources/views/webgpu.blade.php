@@ -135,7 +135,7 @@
             </div>
             <div class="card">
                 <h3>Démos</h3>
-                <p>Océan, morphing, terrains, wormhole, galaxy bloom, WebGPU triangle & cube.</p>
+                <p>Océan, morphing, terrains, wormhole, galaxy bloom, triangle & cube.</p>
                 <a href="/demos">Voir les démos</a>
             </div>
             <div class="card">
